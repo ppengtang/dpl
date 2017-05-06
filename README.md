@@ -10,7 +10,7 @@ By [Peng Tang](https://ppengtang.github.io/), [Xinggang Wang](http://mclab.eic.h
 
 The paper has been accepted by Pattern Recognition. For more details, please refer to our [paper](http://dx.doi.org/10.1016/j.patcog.2017.05.001).
 
-If you are focusing on weakly supervised object detection (or object discovery), you can see our recent CVPR2017 work [OICR](https://github.com/ppengtang/oicr).
+If you are focusing on weakly supervised object detection (or object discovery), you can also see our recent CVPR2017 work [OICR](https://github.com/ppengtang/oicr).
 
 ### Architecture
 
