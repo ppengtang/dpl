@@ -1,0 +1,3 @@
+[submodule "caffe-dpl"]
+	path = caffe-dpl
+	url = https://github.com/ppengtang/caffe.git
