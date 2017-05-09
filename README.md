@@ -45,7 +45,7 @@ DPL is released under the MIT License (refer to the LICENSE file for details).
 
 If you find DPL useful in your research, please consider citing:
 
-    @inproceedings{tang2017deep,
+    @article{tang2017deep,
         author = {Tang, Peng and Wang, Xinggang and Huang, Zilong and Bai, Xiang and Liu, Wenyu},
         title = {Deep Patch Learning for Weakly Supervised Object Classification and Discovery},
         journal = {Pattern Recognition},
