@@ -8,7 +8,7 @@ By [Peng Tang](https://ppengtang.github.io/), [Xinggang Wang](http://mclab.eic.h
  - It achieves state-of-the-art performance on object classification (Pascal VOC 2007 and 2012), and very competitive results on object discovery.
  - Our code is written by C++ and Python, based on [Caffe](http://caffe.berkeleyvision.org/) and [fast r-cnn](https://github.com/rbgirshick/fast-rcnn).
 
-The paper has been accepted by Pattern Recognition. For more details, please refer to our [paper](http://dx.doi.org/10.1016/j.patcog.2017.05.001).
+The paper has been accepted by Pattern Recognition. For more details, please refer to our [paper](http://dx.doi.org/10.1016/j.patcog.2017.05.001) (also available at [arxiv](https://arxiv.org/pdf/1705.02429.pdf)).
 
 If you are focusing on weakly supervised object detection (or object discovery), you can also see our recent CVPR2017 work [OICR](https://github.com/ppengtang/oicr).
 
