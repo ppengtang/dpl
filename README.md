@@ -194,7 +194,7 @@ These models are all available in the [Caffe Model Zoo](https://github.com/BVLC/
 
 Test output is written underneath `$DPL_ROOT/output`.
 
-#### Evalution
+#### Evaluation
 
 To get results, put the results under the folder `$VOCdevkit/results/VOC2007/Main`.
 
